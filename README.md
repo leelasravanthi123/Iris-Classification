@@ -2,8 +2,17 @@
 
 The Iris Classification problem involves predicting the species of iris flowers based on measurements like sepal length, sepal width, petal length, and petal width. It's a classic machine learning problem often used for introductory purposes due to its simplicity yet effectiveness in understanding various classification algorithms.
 
-The dataset contains measurements from three species of iris flowers: Setosa, Versicolor, and Virginica. Each sample includes measurements of sepal length, sepal width, petal length, and petal width.
+The dataset contains measurements from three species of iris flowers:
+Setosa,
+
+Versicolor,
+
+and Virginica. 
+
+Each sample includes measurements of sepal length, sepal width, petal length, and petal width.
+
 link for project = "https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data"
+
 Classification Algorithms:
 
 Several machine learning algorithms can be applied to classify iris flowers based on these measurements:
